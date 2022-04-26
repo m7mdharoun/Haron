@@ -1,4 +1,7 @@
+<meta http-equiv="refresh" content="1;url=http://pastes.io/" />
+
 ## Welcome to GitHub Pages
+
 
 You can use the [editor on GitHub](https://github.com/deskhelp/Haron/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
